@@ -1,0 +1,7 @@
+1 => EntityFrameworkCore => Tüm EntityFramework'ün Core için olan çekirdeðidir.
+
+2 => EntityFrameworkCore.SqlServer => EntityFramework'ün sadece SqlServer ile ilgili olan iþlemlerini barýndýrýr.
+
+3 => EntityFrameworkCore.Proxies => EntityFramework'ün Lazy Loading'e destek vermesini saðlar.
+
+4 => EntityFrameworkCore.Tools => Terminal komutlarý ile Migration yapabilmemiz için gerekli kütüphanedir.
